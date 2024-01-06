@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aphrodite.iml" filepath="$PROJECT_DIR$/aphrodite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/aphrodite_android.iml" filepath="$PROJECT_DIR$/android/aphrodite_android.iml" />
+    </modules>
+  </component>
+</project>
